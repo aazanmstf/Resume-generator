@@ -1,26 +1,45 @@
 # Resume Generator
 
-A simple, responsive resume generator built with HTML, CSS, JavaScript, and Bootstrap.
+A modern, responsive web application that transforms personal details, skills, qualifications, projects, and a profile image into a polished, print-ready resume.
 
 Created by **Aazan Mustafa**.
 
 ## Features
 
-- Enter personal and professional information
-- Add technical skills and academic qualifications
-- Upload a profile image
-- Generate a printable resume
-- Save the printed resume as a PDF from the browser print dialog
+- Simple landing page and easy-to-use resume form
+- Personal details, contact information, and social profile links
+- Optional profile-image upload
+- Add multiple technical skills and academic qualifications
+- Professional objective and project sections
+- Generates a clean resume preview instantly
+- Print the resume or save it as a PDF from the browser print dialog
 
-## Run locally
+## Built With
 
-Open `landing.html` in a web browser, then select **Get Started**.
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
 
-No installation or server is required.
+## Run Locally
 
-## Files
+No installation, database, or server is required.
 
-- `landing.html` - landing page
-- `index.html` - resume form and template
-- `style.css` - design styles
-- `script.js` - resume-generation logic
+1. Download or clone this repository.
+2. Open `landing.html` in any modern browser.
+3. Select **Get Started**, fill in the form, and click **Generate Resume**.
+4. Select **Print** to print the resume or save it as a PDF.
+
+## Project Structure
+
+```text
+resume-generator/
+├── landing.html   # Landing page
+├── index.html     # Resume form and resume template
+├── style.css      # Project styles
+└── script.js      # Resume-generation logic
+```
+
+## License
+
+This project is available for learning and personal use.
