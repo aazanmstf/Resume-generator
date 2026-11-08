@@ -1,0 +1,48 @@
+#cv-template {
+   display: none;
+}
+
+.myimg {
+   border: 1px solid rgb(30, 30, 146);
+   border-radius: 50%;
+   width: 200px;
+}
+
+.background {
+   background-color: rgb(4, 250, 250);
+}
+
+/* New styles for centering the login form */
+.login-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100vh; /* Full viewport height */
+}
+
+.landing-container {
+    background-image: url('https://www.baltana.com/files/wallpapers-2/Business-Powerpoint-Background-Wallpaper-06762.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #000;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    min-height: auto;
+    display: block;
+    justify-content: unset;
+    padding-top: 20px;
+}
+
+#cv-form {
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.Oy1SGN0xc2HOXZ7WavIOYQAAAA&pid=Api&P=0&h=180');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
