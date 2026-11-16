@@ -26,9 +26,16 @@ Created by **Aazan Mustafa**.
 No installation, database, or server is required.
 
 1. Download or clone this repository.
-2. Open `landing.html` in any modern browser.
-3. Select **Get Started**, fill in the form, and click **Generate Resume**.
-4. Select **Print** to print the resume or save it as a PDF.
+2. Open the project folder in VS Code.
+3. Open **Terminal → New Terminal** and run:
+
+```powershell
+Start-Process ".\index.html"
+```
+
+You can also open `landing.html` directly in any modern browser.
+4. Fill in the form and click **Generate Resume**.
+5. Select **Print** to print the resume or save it as a PDF.
 
 ## Project Structure
 
